@@ -19,7 +19,3 @@ struct train{
     var northBound:Bool
     var runsOnWeekday:Bool
 }
-
-
-
-
